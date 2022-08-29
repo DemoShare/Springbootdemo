@@ -11,8 +11,8 @@
 	<groupId>com.bigtree</groupId>
 	<artifactId>springbootdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springbootdemo</name>
-	<description>springbootdemo</description>
+	<name>SpringBootDemo</name>
+	<description>SpringBootDemo</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
